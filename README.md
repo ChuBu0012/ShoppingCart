@@ -6,6 +6,8 @@ Html Css Javascript
 # Visit Website
 # https://chubu0012.github.io/ShoppingCart/
 ---
+!no responsive!
+---
 <p align="center">
 <a href="https://chubu0012.github.io/ShoppingCart/">
 <img src="ShoppingCart.gif" alt="" width="650" align="center"/>
